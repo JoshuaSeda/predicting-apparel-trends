@@ -1,0 +1,2894 @@
+[
+  {
+    "timestamp": "2025-07-22 12:35:07",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          },
+          {
+            "Month": "Feb",
+            "Sales": 39.095262870465284
+          },
+          {
+            "Month": "Mar",
+            "Sales": 39.09525107496968
+          },
+          {
+            "Month": "Apr",
+            "Sales": 39.095248884985466
+          },
+          {
+            "Month": "May",
+            "Sales": 39.095248478386964
+          },
+          {
+            "Month": "Jun",
+            "Sales": 39.095248402896765
+          },
+          {
+            "Month": "Jul",
+            "Sales": 39.095248388881046
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:45",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:46",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:46",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:51",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:52",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:52",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:52",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:52",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:55",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:35:58",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-22 12:36:18",
+    "data": {
+      "Jacket": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 51
+          },
+          {
+            "Month": "Sep",
+            "Sales": 26
+          },
+          {
+            "Month": "Oct",
+            "Sales": 51
+          },
+          {
+            "Month": "Nov",
+            "Sales": 41
+          },
+          {
+            "Month": "Dec",
+            "Sales": 23
+          },
+          {
+            "Month": "Jan",
+            "Sales": 26
+          },
+          {
+            "Month": "Feb",
+            "Sales": 37
+          },
+          {
+            "Month": "Mar",
+            "Sales": 26
+          },
+          {
+            "Month": "Apr",
+            "Sales": 35
+          },
+          {
+            "Month": "May",
+            "Sales": 44
+          },
+          {
+            "Month": "Jun",
+            "Sales": 65
+          },
+          {
+            "Month": "Jul",
+            "Sales": 41
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 39.44888981925827
+          },
+          {
+            "Month": "Sep",
+            "Sales": 39.16090642876032
+          },
+          {
+            "Month": "Oct",
+            "Sales": 39.10743863889446
+          },
+          {
+            "Month": "Nov",
+            "Sales": 39.09751166168859
+          },
+          {
+            "Month": "Dec",
+            "Sales": 39.09566859174512
+          },
+          {
+            "Month": "Jan",
+            "Sales": 39.09532640230053
+          }
+        ]
+      },
+      "Tshirt": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      },
+      "Shorts": {
+        "past": [
+          {
+            "Month": "Aug",
+            "Sales": 0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0
+          },
+          {
+            "Month": "Feb",
+            "Sales": 0
+          },
+          {
+            "Month": "Mar",
+            "Sales": 0
+          },
+          {
+            "Month": "Apr",
+            "Sales": 0
+          },
+          {
+            "Month": "May",
+            "Sales": 0
+          },
+          {
+            "Month": "Jun",
+            "Sales": 0
+          },
+          {
+            "Month": "Jul",
+            "Sales": 0
+          }
+        ],
+        "forecast": [
+          {
+            "Month": "Aug",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Sep",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Oct",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Nov",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Dec",
+            "Sales": 0.0
+          },
+          {
+            "Month": "Jan",
+            "Sales": 0.0
+          }
+        ]
+      }
+    }
+  }
+]
