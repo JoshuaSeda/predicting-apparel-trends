@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Predicting Apparel Trends</title>
+  <!-- favicon -->
+  <link rel="icon" 
+        href="{{ url_for('static', filename='faviconshirt.ico') }}" 
+        type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+      background: linear-gradient(135deg, #e0eafc, #cfdef3);
+      font-family: 'Poppins', sans-serif;
+      color: #333;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1000px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background: #fff;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-weight: 600;
+      color: #1d3557;
+      margin-bottom: 30px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    input[type="file"],
+    select,
+    button {
+      padding: 10px 16px;
+      font-weight: 500;
+      border-radius: 6px;
+      border: 1px solid #a8dadc;
+      cursor: pointer;
+      width: 100%;
+      max-width: 300px;
+      transition: background 0.3s, transform 0.2s;
+    }
+
+    button {
+      background: #457b9d;
+      color: #fff;
+      border: none;
+    }
+
+    button:hover {
+      background: #1d3557;
+      transform: translateY(-2px);
+    }
+
+    .upload-with-tooltip {
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .tooltip-icon {
+      font-size: 18px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .csv-tooltip {
+      display: none;
+      position: absolute;
+      top: 24px;
+      left: -10px;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      z-index: 1000;
+    }
+
+    .csv-tooltip img {
+      max-width: 280px;
+      border-radius: 4px;
+      display: block;
+    }
+
+    #chart-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    canvas {
+      max-width: 100%;
+      height: 400px !important;
+    }
+
+    .summary-popup {
+      position: fixed;
+      top: -100%;
+      right: 20px;
+      width: 320px;
+      max-height: 70%;
+      overflow-y: auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+      padding: 20px;
+      transition: top 0.5s ease;
+      z-index: 1000;
+    }
+
+    .summary-popup.show {
+      top: 20px;
+    }
+
+    .summary-popup h4 {
+      margin-top: 0;
+      color: #1d3557;
+      font-weight: 600;
+    }
+
+    .close-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: none;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      color: #e63946;
+    }
+
+    .summary-popup p {
+      line-height: 1.4;
+      margin-bottom: 12px;
+    }
+
+    .summary-popup hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 12px 0;
+    }
+
+    .controls {
+      margin-top: 10px;
+    }
+
+    #showSummaryBtn {
+      background: #e63946;
+      color: #fff;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+    }
+
+    #showSummaryBtn:hover {
+      background: #d62828;
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Data Analytics Platform</h1>
+
+    <form id="uploadForm" enctype="multipart/form-data">
+      <label for="csvFile">Upload Sales CSV File</label>
+      <div class="upload-with-tooltip">
+        <input type="file" id="csvFile" name="file" accept=".csv" required />
+        <span class="tooltip-icon">ℹ️
+          <div class="csv-tooltip">
+            <img src="/static/csv_template.png" alt="CSV template" />
+          </div>
+        </span>
+      </div>
+
+      <select id="forecastMonths" name="months">
+        <option value="12">12 Months</option>
+        <option value="6">6 Months</option>
+        <option value="3">3 Months</option>
+      </select>
+
+      <button type="submit">Get Forecast</button>
+    </form>
+
+    <div class="controls">
+      <button id="showSummaryBtn" disabled>Show Summary</button>
+    </div>
+
+    <div id="chart-container">
+      <canvas id="forecastChart"></canvas>
+    </div>
+  </div>
+
+  <!-- Summary Popup -->
+  <div id="summaryPopup" class="summary-popup">
+    <button id="closeSummaryBtn" class="close-btn">✕</button>
+    <h4>Sales Summary</h4>
+    <div id="summaryContent"></div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
