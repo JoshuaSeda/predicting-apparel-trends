@@ -3,6 +3,7 @@ from flask_cors import CORS
 import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
 import calendar
+import os
 
 app = Flask(__name__)
 CORS(app)
@@ -48,4 +49,5 @@ def forecast():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Use Render's provided PORT
+    app.run(host="0.0.0.0", port=port, debug=False)
